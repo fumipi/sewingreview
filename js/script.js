@@ -32,6 +32,8 @@ function createCards(patterns) {
                 <p class="card-text">${pattern.maker}</p>
                 <p class="card-text">Skill Level: ${pattern.skillLevel}</p>
                 <p class="card-text">Hashtag: ${pattern.hashtag}</p>
+                <p class="card-text">No. of Posts: [TBD] </p>
+                <p class="card-text">No. of ❤️: [TBD] </p>
             </div>
         `;
 
