@@ -1,4 +1,4 @@
-# sewingreview
+# お裁縫型紙レビュー
 
 ## DEMO
 
